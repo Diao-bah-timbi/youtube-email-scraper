@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YouTube Channel Email Scraper
 
 A Python script to automate the extraction of email addresses from YouTube channel "About" pages.
@@ -91,3 +92,5 @@ The script logs all operations to:
 - Processing a large number of URLs may trigger YouTube's anti-bot measures
 - The script performance depends on your internet connection speed
 - For best results, run the script during periods of low activity
+
+>>>>>>> f4f35b4cb95c575b5ca8c72969b1364d562465dc
